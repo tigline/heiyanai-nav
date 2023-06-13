@@ -12,11 +12,6 @@
       "src": "indoor.svg",
       "type": "image/svg",
       "sizes": "192x192"
-    },
-    {
-      "src": "indoor.svg",
-      "type": "image/svg",
-      "sizes": "512x512"
     }
   ],
   "start_url": "/",
